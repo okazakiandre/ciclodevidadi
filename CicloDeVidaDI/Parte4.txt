@@ -1,0 +1,20 @@
+﻿Singleton, Scoped, Transient: tudo o que você precisa saber
+===========================================================
+
+- O que é
+
+- Como funciona
+  - ConfigureServices
+  - Contador
+
+- Coisas que você pode fazer, mas talvez não deva
+  - Dependências concretas
+  - Combinar ciclos de vida diferentes
+  - Delegates (para configuração é legal)
+  - Injeção múltipla
+
+- Quando usar o que?
+  - Na maioria dos casos, Scoped
+  - Singleton e Transient são para casos específicos
+  - Cuidado com performance
+  - Cuidado com estado

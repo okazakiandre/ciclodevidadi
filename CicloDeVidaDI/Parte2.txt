@@ -1,0 +1,8 @@
+﻿Singleton, Scoped, Transient: tudo o que você precisa saber
+===========================================================
+
+- O que é
+
+- Como funciona
+  - ConfigureServices
+  - Contador
